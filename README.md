@@ -25,6 +25,12 @@ I am committed to continuing to learn and evolve in the fascinating world of sof
 
 <br>
 
+- **Projects**:
+
+   [handmade e-commerce](https://github.com/TheWiXi/ecommerce-Final) - This project is a mobile-focused e-commerce web application that implements a hexagonal architecture. Users can register and log in both locally and via Google, Facebook, and Instagram. It also features a simulated payment gateway and real-time customer support chat.
+
+<br>
+
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
