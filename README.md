@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre] 👋
 
-<!--
-**JuanRivasfr/JuanRivasFr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desarrollador(a) Full Stack | Entusiasta de la tecnología | Amante del código 💻
 
-Here are some ideas to get you started:
+### Acerca de mí:
+- 🌱 Actualmente aprendiendo [tecnología actual en la que estés trabajando].
+- 💼 Buscando colaborar en proyectos interesantes de [temática que te interese].
+- ⚡ Dato curioso: [algo divertido o interesante sobre ti].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades
+- 🔧 Lenguajes y herramientas:
+  - JavaScript, React, Node.js, MongoDB, HTML, CSS, etc.
+  - [Añade más tecnologías que manejes]
+
+### Proyectos destacados
+- [Proyecto 1](https://github.com/tuUsuario/proyecto1) - Breve descripción.
+- [Proyecto 2](https://github.com/tuUsuario/proyecto2) - Breve descripción.
+
+### Conéctate conmigo:
+- LinkedIn: [enlace a tu perfil de LinkedIn]
+- Twitter: [enlace a tu perfil de Twitter]
+
