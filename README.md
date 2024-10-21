@@ -31,8 +31,6 @@ I am committed to continuing to learn and evolve in the fascinating world of sof
 
 <br>
 
-<br>
-
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <div align='left'>
